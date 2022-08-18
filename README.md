@@ -36,6 +36,7 @@ The goal is to obtain, after training, scores for each patch indicating the nega
 
 Features Extraction: We use ResNet-50 pre-trained on ImageNet to extract features from tiles.
 
-![image](https://user-images.githubusercontent.com/111517884/185422587-c465664c-d394-4fed-91a2-1824ba91e72a.png)
+![image](https://user-images.githubusercontent.com/111517884/185426279-155164df-54a8-4c16-8c0f-472510e8a874.png)
+
 
 
