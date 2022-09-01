@@ -45,8 +45,10 @@ Features Extraction: We use ResNet-50 pre-trained on ImageNet to extract feature
 
 ## Results
 ![image](https://user-images.githubusercontent.com/111517884/187883514-a2403964-ce5d-4a75-9116-9e2e4cd108b7.png)
-![image](https://user-images.githubusercontent.com/111517884/187884189-ca5b1573-004e-40d8-8f66-3a3aa701dd5a.png)
-![image](https://user-images.githubusercontent.com/111517884/187884379-14923511-7fdf-4c1f-97c7-a7807b7ece38.png)
+![image](https://user-images.githubusercontent.com/111517884/187947572-49ccda0b-b249-4ebd-8908-baaf4380d0dc.png)
+![image](https://user-images.githubusercontent.com/111517884/187947958-bc377022-49e9-44e8-a605-c95895e659db.png)
+
+
 
 ## Discussions
 Despite the fact that we are working on a sub-part of the dataset  we managed to reimplement the Chowder method, reproduce results close to theirs and detect tumor patches.
