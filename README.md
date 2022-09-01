@@ -45,7 +45,13 @@ Features Extraction: We use ResNet-50 pre-trained on ImageNet to extract feature
 
 ## Results
 ![image](https://user-images.githubusercontent.com/111517884/187883514-a2403964-ce5d-4a75-9116-9e2e4cd108b7.png)
-![image](https://user-images.githubusercontent.com/111517884/187947572-49ccda0b-b249-4ebd-8908-baaf4380d0dc.png)
+
+![image](https://user-images.githubusercontent.com/111517884/187948192-8148bbbb-45b0-4146-a2eb-4cb640eeb742.png)
+
+![image](https://user-images.githubusercontent.com/111517884/187948134-b54be3ea-3a66-4f18-a9df-10c284ba833b.png)
+
+![image](https://user-images.githubusercontent.com/111517884/187948107-5e978ce4-cad5-407d-99f2-5f2d3bcb4a3d.png)
+
 ![image](https://user-images.githubusercontent.com/111517884/187947958-bc377022-49e9-44e8-a605-c95895e659db.png)
 
 
